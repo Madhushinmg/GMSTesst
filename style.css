@@ -1,0 +1,49 @@
+body{
+
+ h4{
+font-family: Times New Roman ;
+font: size 14pt; ;
+color: black;
+text-align:left;
+
+ }
+ h6{
+     font-size: small;
+     color: black;
+     font-family:Times New Roman ;
+     text-align: right;
+
+ }
+ h5{
+font: size 12pt; ;
+font-family: Arial, Helvetica, sans-serif;
+color: black;
+text-align: left;
+
+ }
+ 
+ button{
+border:4px solid powderblue;
+margin: 50px;
+padding: 20px;
+
+
+}
+h4{
+    font-size: 13px;
+    text-align: left;
+}
+pre{
+    text-align: left;
+    font-size: 11pt;
+    background-color: black;
+    color: white;
+
+
+}
+button{
+    border:2px solid powderblue;
+    padding: 20px;
+}
+
+}
